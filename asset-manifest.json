@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fadjrin.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/fadjrin.io/static/js/main.75286034.chunk.js",
+    "main.js.map": "/fadjrin.io/static/js/main.75286034.chunk.js.map",
+    "runtime-main.js": "/fadjrin.io/static/js/runtime-main.534c49df.js",
+    "runtime-main.js.map": "/fadjrin.io/static/js/runtime-main.534c49df.js.map",
+    "static/js/2.dad81eb6.chunk.js": "/fadjrin.io/static/js/2.dad81eb6.chunk.js",
+    "static/js/2.dad81eb6.chunk.js.map": "/fadjrin.io/static/js/2.dad81eb6.chunk.js.map",
+    "index.html": "/fadjrin.io/index.html",
+    "precache-manifest.1d9522b69a06bc0a8500af55ce715929.js": "/fadjrin.io/precache-manifest.1d9522b69a06bc0a8500af55ce715929.js",
+    "service-worker.js": "/fadjrin.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/fadjrin.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.dad81eb6.chunk.js.LICENSE": "/fadjrin.io/static/js/2.dad81eb6.chunk.js.LICENSE",
+    "static/media/logo.svg": "/fadjrin.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.534c49df.js",
+    "static/js/2.dad81eb6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.75286034.chunk.js"
+  ]
+}
